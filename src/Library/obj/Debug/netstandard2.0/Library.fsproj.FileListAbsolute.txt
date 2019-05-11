@@ -1,0 +1,8 @@
+/Users/keikun/Code/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/Users/keikun/Code/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.dll
+/Users/keikun/Code/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/Users/keikun/Code/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.fsprojAssemblyReference.cache
+/Users/keikun/Code/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/Users/keikun/Code/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.fs
+/Users/keikun/Code/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.dll
+/Users/keikun/Code/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.pdb

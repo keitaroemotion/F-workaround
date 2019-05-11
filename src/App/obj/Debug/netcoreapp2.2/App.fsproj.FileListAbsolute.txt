@@ -1,0 +1,13 @@
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.deps.json
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.dll
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.pdb
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/Library.dll
+/Users/keikun/Code/FSNetCore/src/App/bin/Debug/netcoreapp2.2/Library.pdb
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.fsprojAssemblyReference.cache
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.fs
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.fsproj.CopyComplete
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.dll
+/Users/keikun/Code/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.pdb
